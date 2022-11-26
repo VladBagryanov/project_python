@@ -1,5 +1,5 @@
-import random
-import tkinter
-import graphics
-import keyboard
-import time
+random
+tkinter
+graphics
+keyboard
+time
